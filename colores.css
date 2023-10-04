@@ -88,5 +88,13 @@ h1{
   
 }
 
+@media (min-width: 400px) and (max-width: 767px) {
+  .sub-parrafo{flex-direction: column;}
+  .segundo-parrafo{flex-direction: column;}
+  .segundo-parrafo{background: yellow;}
+  .h1{margin: 20px};
+
+  
+}
 
 
